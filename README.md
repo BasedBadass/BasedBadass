@@ -20,13 +20,17 @@ I'm on a year-long journey to master front-end web design and data analysis with
 
 * 🌱 I’m currently learning **Python, HTML, CSS, and JavaScript for front-end development, and data analysis techniques with Pandas and NumPy**.
 * 🤔 I’m looking for help with **Responsive web design, Data visualization, Career Advice**.
-  
+
+
 <br>
 
 **Connect with me:**
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f53df97e-b50e-4365-89ce-281667d92708" width="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d36fd42b-65ff-49e5-9450-9f57de3ea52c" width="200" />
+  <img src="https://github.com/user-attachments/assets/f53df97e-b50e-4365-89ce-281667d92708" width="100" style="margin: 0 15px;" /> 
+
+  <img src="https://github.com/user-attachments/assets/d36fd42b-65ff-49e5-9450-9f57de3ea52c" width="100" style="margin: 0 15px;" /> 
+
+  <a href="https://open.spotify.com/playlist/4R3VaolSAHop6l72i4WGZL?si=fa66d3b4a625461f">
+    <img src="https://github.com/user-attachments/assets/e0cd68f1-11f3-4b9b-bbb6-d91bb249822a" alt="Spotify" width="100" style="margin: 0 15px;" />
+  </a> 
 </div>
